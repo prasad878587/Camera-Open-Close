@@ -1,0 +1,31 @@
+.box{
+    height: 500px;
+    width: 500px;
+    background-color: #677D6A;
+    margin-left: 490px;
+    margin-top: 40px;
+    
+    
+}
+
+#p1{
+    background-color: #40534C;
+}
+
+.center{
+    display: flex;
+    /* display: inline; */
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    flex-direction: column;
+    margin-right: 60px;
+    
+    
+}
+
+.color{
+    height: 30px;
+    width: 150px;
+    background-color: #D6BD98;
+}
